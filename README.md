@@ -12,6 +12,6 @@ Find the valu of m and c,
 
 Applay all latitude and get new longitude.
 
-Grapical representation of the given latitude and continuous path,
+Grapical representation of the points with continuous path,
 
 ![download](https://user-images.githubusercontent.com/38728392/132813825-353c12d3-5c31-4e6f-91dc-02ed888771df.png)
